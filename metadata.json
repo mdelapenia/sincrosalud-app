@@ -1,0 +1,13 @@
+{
+  "resourceType": "CapabilityStatement",
+  "status": "active",
+  "date": "2024-01-01",
+  "kind": "instance",
+  "fhirVersion": "4.0.1",
+  "format": ["json"],
+  "rest": [
+    {
+      "mode": "server"
+    }
+  ]
+}
